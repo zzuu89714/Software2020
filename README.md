@@ -1,4 +1,5 @@
 # Homework #2
 
-## Please download the file hw2.rmd 
-## Answer all questoins 
+1 Please download the file hw2.rmd 
+2 Answer all the questoins
+3 
